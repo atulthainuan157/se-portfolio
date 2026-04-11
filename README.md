@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with vanilla HTML, CSS, an
 
 ## 🔗 Live Demo
 
-> **[View Portfolio →](https://atulthainuan157.github.io/se-portfolio/)**
+> **[View Portfolio →](https://se-portfolio-two.vercel.app/#home)**
 
 ## ✨ Features
 
